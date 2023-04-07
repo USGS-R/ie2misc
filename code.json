@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ie2misc",
+    "organization": "U.S. Geological Survey",
+    "description": "A collection of Irucka Embry's miscellaneous USGS functions (processing .exp and .psf files, statistical error functions, \"+\" dyadic operator for use with NA, creating ADAPS and QW spreadsheet files, calculating saturated enthalpy). Irucka created these functions while a Cherokee Nation Technology Solutions (CNTS) United States Geological Survey (USGS) Contractor and/or USGS employee.",
+    "version": "main",
+    "status": "Development",
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://github.com/USGS-R/ie2misc/blob/main/LICENSE.md"
+        }
+      ]
+    },
+    "homepageURL": "https://github.com/USGS-R/ie2misc/",
+    "downloadURL": "https://github.com/USGS-R/ie2misc/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USGS-R/ie2misc/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USGS-R/ie2misc.git",
+    "vcs": "git",
+    "laborHours": -1,
+    "tags": [
+      "R",
+      "USGS"
+    ],
+    "languages": [
+      "R"
+    ],
+    "contact": {
+      "name": "iembry",
+      "email": "FILL ME IN"
+    },
+    "date": {
+      "metadataLastUpdated": "2023-04-07"
+    }
+  },
+  {
+    "name": "",
+    "organization": "U.S. Geological Survey",
+    "description": "",
+    "version": "v0.0.0",
+    "status": "Ideation",
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "LICENSE.md"
+        }
+      ]
+    },
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "repositoryURL": "",
+    "vcs": "git",
+    "laborHours": 1,
+    "tags": [
+      "R",
+      "USGS"
+    ],
+    "languages": [
+      "R"
+    ],
+    "contact": {
+      "name": "",
+      "email": ""
+    },
+    "date": {
+      "metadataLastUpdated": "2022-10-16"
+    }
+  }
+]
